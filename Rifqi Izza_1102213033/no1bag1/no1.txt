@@ -1,0 +1,12 @@
+Kerja Praktek (KP) merupakan bagian integral dari kurikulum pendidikan tinggi di banyak perguruan tinggi di Indonesia. Program KP dirancang untuk memberikan mahasiswa pengalaman praktis di lapangan yang relevan dengan bidang studi mereka. Dalam konteks proyek ini, kerja praktik menjadi wahana bagi mahasiswa untuk menerapkan pengetahuan yang diperoleh di kelas ke dalam situasi nyata di industri. Melalui KP, mahasiswa memiliki kesempatan untuk belajar secara langsung tentang praktik-praktik terkini, tren industri, serta tantangan dan peluang yang dihadapi dalam konteks teknologielektrikal
+
+BAB 1: Latar Belakang
+Dalam era teknologi digital, produk elektrikal seperti switching ethernet dan smart home menjadi kunci bagi kemajuan infrastruktur dan gaya hidup modern. Studi perbandingan dan analisis fitur produk elektrikal di Indonesia penting untuk memahami perkembangan pasar dan kebutuhan konsumen.
+
+Tujuan Kegiatan KP
+
+Proyek ini bertujuan untuk memberikan wawasan yang mendalam tentang perbandingan dan analisis fitur produk elektrikal, khususnya switching ethernet dan smart home, di pasar Indonesia. Selain itu, tujuan kegiatan kerja praktik ini adalah untuk memberikan pengalaman praktis bagi mahasiswa dalam melakukan riset, analisis, dan pembuatan laporan proyek di dunia industri.
+
+Manfaat KP
+
+Kerja praktik ini akan memberikan manfaat ganda, yaitu meningkatkan pengetahuan dan keterampilan mahasiswa dalam bidang produk elektrikal serta memberikan kontribusi berharga bagi industri dengan menyediakan analisis yang relevan untuk pengembangan produk dan layanan yang lebih baik sesuai dengan kebutuhan pasar Indonesia.

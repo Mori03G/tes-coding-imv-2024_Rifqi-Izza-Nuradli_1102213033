@@ -1,0 +1,12 @@
+Ari menghabiskan apelnya sebelum Elang tetapi setelah Cia.
+Bani menghabiskannya setelah Danny.
+Cia menghabiskan apelnya setelah Danny sebelum Bani.
+Dari informasi tersebut, kita dapat menyusun urutannya sebagai berikut:
+
+Danny: Dia yang pertama menghabiskan apelnya.
+Cia: Dia menghabiskan apelnya setelah Danny.
+Bani: Dia menghabiskan apelnya setelah Cia.
+Ari: Dia menghabiskan apelnya setelah Bani tetapi sebelum Elang.
+Elang: Dia yang terakhir menghabiskan apelnya.
+
+jadi danny berada di nomer 3 

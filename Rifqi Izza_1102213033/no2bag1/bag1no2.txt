@@ -1,0 +1,48 @@
+Jarak antara Stasiun Bandung dan Jakarta = x km
+Kecepatan awal kereta cepat = v km/jam
+Waktu tempuh awal = 30 menit = 0,5 jam
+Kecepatan kereta cepat yang lebih cepat = (v + 50) km/jam
+Waktu tempuh yang lebih cepat = 20 menit = 0,33 jam
+Persamaan 1:
+
+Waktu tempuh awal = Jarak / Kecepatan awal
+0,5 jam = x / v
+
+Persamaan 2:
+
+Waktu tempuh yang lebih cepat = Jarak / Kecepatan yang lebih cepat
+0,33 jam = x / (v + 50)
+
+Langkah 1:
+
+Kita dapat menggunakan informasi dari kedua persamaan untuk menentukan nilai x.
+
+Langkah 2:
+
+Dari Persamaan 1, kita dapat menulis ulang x:
+
+x = 0,5 jam * v
+
+Langkah 3:
+
+Gantikan persamaan x di Persamaan 2:
+
+0,33 jam = (0,5 jam * v) / (v + 50)
+
+Langkah 4:
+
+Sederhanakan persamaan:
+
+0,66v + 16,5 = 0,5v
+
+Langkah 5:
+
+Pindahkan semua suku v ke satu sisi:
+
+0,16v = -16,5
+
+Langkah 6:
+
+Bagi kedua sisi dengan 0,16 untuk mencari nilai v:
+
+v = -103,125 km/jam
